@@ -3,7 +3,6 @@
 **App landing website** for **Circl**, a community resource-sharing mobile app. It features an interactive app simulator instead of static screenshots.
 
 ![Circl Web screenshot](ss/landing.png)
-![Circl Web screenshot](ss/simulator.png)
 
 ## What it does
 
@@ -23,6 +22,13 @@ Visitors can click through the mobile interface (Feed, Map, Create Request, Chat
 - **Instant Trilingual Toggle:** English, Sinhala, and Tamil with no page reloads
 - **Dynamic Theming:** light/dark mode via a toggle button
 - **Custom Animations:** scroll reveals, hover effects, and layout transitions
+
+## Screenshots
+
+![Circl Web screenshot](ss/landing.png)
+![Circl Web screenshot](ss/dark-mode.png)
+![Circl Web screenshot](ss/simulator.png)
+![Circl Web screenshot](ss/contact.png)
 
 ## How to run locally
 
