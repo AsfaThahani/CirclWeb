@@ -1,9 +1,9 @@
-<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/1621e2e8-f50e-4191-9147-c707a24a0fac" /># Circl Web
+# Circl Web
 
 **App landing website** for **Circl**, a community resource-sharing mobile app. It features an interactive app simulator instead of static screenshots.
 
-![Circl Web screenshot](ss/circl-web-preview.png)
-![Circl Web screenshot](ss/circl-web-preview2.png)
+![Circl Web screenshot](ss/landing.png)
+![Circl Web screenshot](ss/simulator.png)
 
 ## What it does
 
