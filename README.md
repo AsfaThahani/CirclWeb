@@ -13,7 +13,6 @@ Visitors can click through the mobile interface (Feed, Map, Create Request, Chat
 - HTML5
 - CSS3 (custom properties, absolute positioning)
 - Vanilla JavaScript
-- Figma (design)
 - Google Fonts
 
 ## Features
