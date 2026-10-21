@@ -27,6 +27,8 @@ Visitors can click through the mobile interface (Feed, Map, Create Request, Chat
 
 ![Circl Web screenshot](ss/landing.png)
 ![Circl Web screenshot](ss/dark-mode.png)
+![Circl Web screenshot](ss/lang-sinhala.png)
+![Circl Web screenshot](ss/lang-tamil.png)
 ![Circl Web screenshot](ss/simulator.png)
 ![Circl Web screenshot](ss/contact.png)
 
