@@ -1,4 +1,4 @@
-# 🔄 Circl Web
+# Circl Web
 
 This is the companion website for Circl, a community resource-sharing mobile app. Instead of just showing static screenshots of the app, I built a lightweight interactive simulator so visitors can click through the mobile interface before they download anything. 
 
