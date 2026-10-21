@@ -1,6 +1,6 @@
 # Circl Web
 
-**App landing website** for **Circl**, a community resource-sharing mobile app. It features an interactive app simulator instead of static screenshots.
+**App landing website** for **Circl**, a community resource-sharing mobile app.
 
 ![Circl Web screenshot](ss/landing.png)
 
