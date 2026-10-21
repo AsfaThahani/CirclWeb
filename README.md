@@ -51,4 +51,7 @@ To run it locally: Clone this repo or download the ZIP, and simply double-click 
 
 ## <u>🎥 Video</u>
 
-<iframe src="https://drive.google.com/file/d/1nVc7D-hfx4dPEqzJj1TCX-XHVYLSXVwc/preview" width="100%" height="400" allow="autoplay"></iframe>
+<video src="CirclWebDemo.mp4" controls="controls" width="100%"></video>
+
+
+
