@@ -1,40 +1,33 @@
-# Circl Web
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/1621e2e8-f50e-4191-9147-c707a24a0fac" /># Circl Web
 
-This is the companion website for Circl, a community resource-sharing mobile app. Instead of just showing static screenshots of the app, I built a lightweight interactive simulator so visitors can click through the mobile interface before they download anything. 
+**App landing website** for **Circl**, a community resource-sharing mobile app. It features an interactive app simulator instead of static screenshots.
 
-## <u>Tech Stack</u>
+![Circl Web screenshot](ss/circl-web-preview.png)
+![Circl Web screenshot](ss/circl-web-preview2.png)
+
+## What it does
+
+Visitors can click through the mobile interface (Feed, Map, Create Request, Chat, Profile) before downloading anything. The site also supports instant trilingual switching (English, Sinhala, Tamil) and light/dark theming, all without page reloads.
+
+## Tech Stack
 
 - HTML5
-- CSS3
+- CSS3 (custom properties, absolute positioning)
 - Vanilla JavaScript
-- Figma
+- Figma (design)
 - Google Fonts
 
-## <u>Features</u>
+## Features
 
-- **Lightweight App Simulator:** A lightweight clickable phone mockup that lets you explore the app's screens (Feed, Map, Create Request, Chat, Profile).
-- **Instant Trilingual Toggle:** Switch the whole site between English, Sinhala, and Tamil without any page reloads.
-- **Dynamic Theming:** Light and dark modes that can be switched instantly via a toggle button.
-- **Custom Animations:** Smooth scroll reveals, hover effects, and layout transitions.
+- **Lightweight App Simulator:** clickable phone mockup to explore all five app screens
+- **Instant Trilingual Toggle:** English, Sinhala, and Tamil with no page reloads
+- **Dynamic Theming:** light/dark mode via a toggle button
+- **Custom Animations:** scroll reveals, hover effects, and layout transitions
 
-## <u>Architecture & Development</u>
+## How to run locally
 
-I started by designing the layout in Figma to match the app's identity (colors, fonts, and vibe). Once the structure was set, I built it using pure HTML and CSS. For the simulator, I used CSS absolute positioning and hidden `div`s to mimic a phone screen. The language switching and theme toggling were handled using custom JavaScript data attributes and CSS variables to keep it fast and lightweight.
+No build tools or backend needed.
 
-## <u>Technical Insights & Challenges</u>
-
-Building this taught me how to translate a mobile app's design language to the web. I improved my implementation of CSS custom properties for theming and learned how to cleanly structure vanilla JavaScript. Handling the trilingual layout required careful typography adjustments to ensure proper font sizing across different languages. 
-
-Overall, this project pushed me to consider performance, localization, and user experience, moving beyond just visual design and marking a significant step up in building interactive, user-focused frontends.
-
-## <u>Future Scope</u>
-
-- Turning the hardcoded simulator data into real, dynamic JSON.
-- Adding actual App Store and Google Play links once the app is live.
-- Optimizing image assets (like moving to WebP) for even faster load times.
-- Adding scroll-jacking or parallax effects to the hero section for a more premium feel.
-
-## <u>Local Setup</u>
-
-Since this is a static site with no backend or build tools, you don't need to install anything. 
-To run it locally: Clone this repository or download the ZIP, and simply double-click `index.html` to open it in your browser.
+```bash
+git clone https://github.com/AsfaThahani/CirclWeb.git
+cd CirclWeb
