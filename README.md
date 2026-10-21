@@ -38,7 +38,3 @@ Overall, this project pushed me to consider performance, localization, and user 
 
 Since this is a static site with no backend or build tools, you don't need to install anything. 
 To run it locally: Clone this repository or download the ZIP, and simply double-click `index.html` to open it in your browser.
-
-## <u>Video Demo</u>
-
-<video src="https://github.com/AsfaThahani/CirclWeb/raw/main/CirclWebDemo.mp4" controls="controls" width="100%"></video>
