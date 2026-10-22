@@ -2,8 +2,6 @@
 
 **App landing website** for **Circl**, a community resource-sharing mobile app.
 
-![Circl Web screenshot](ss/landing.png)
-
 ## What it does
 
 Visitors can click through the mobile interface (Feed, Map, Create Request, Chat, Profile) before downloading anything. The site also supports instant trilingual switching (English, Sinhala, Tamil) and light/dark theming, all without page reloads.
